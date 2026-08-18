@@ -1,0 +1,9 @@
+.idea
+.venv
+.env
+.properties
+asserts
+__pycache__/
+*.pyc
+tmp
+artifacts
